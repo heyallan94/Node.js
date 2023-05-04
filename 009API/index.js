@@ -8,7 +8,7 @@
 
  * Grandes aplicações como Facebook e Instagram utilizam APIs
  * 
- * Grande parte dos softwares desenvolviddos em Node.js tem uma API
+ * Grande parte dos softwares desenvolvidos em Node.js tem uma API
  * 
  * Utilizam o framework Express para isso.
  * 

@@ -17,3 +17,12 @@ npm install express
 Lembre-se de instalar na pasta que você vai trabalhar
 
 */
+
+/**
+ * npm init // Cria o package.json
+ * 
+ * npm install express //Instala o pacote localmente
+ * 
+ * npm -g install nodemon // Instala o pacote globalmente
+ * 
+ */
