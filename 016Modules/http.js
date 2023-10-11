@@ -28,4 +28,4 @@ const server = http.createServer((req, res)=>{//Dois parametros, um de requisiç
     }
 })
 
-server.listen(port, ()=> console.log(`Rodando na porta ${port}`))
+server.listen(port, ()=> console.log(`O NODE ESTÁ RODANDO CARO AMIGUÉ JOÃO`))
